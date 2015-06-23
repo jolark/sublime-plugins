@@ -1,0 +1,9 @@
+[
+	{
+		"args":
+		{
+			"case_sensitive": false
+		},
+		"command": "sort_lines"
+	}
+]

@@ -1,0 +1,13 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"CSV",
+		"LaTeXTools",
+		"Package Control",
+		"Super Calculator"
+	]
+}

@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["ctrl+shift+m"], "command": "countmap" },
+	{ "keys": ["ctrl+shift+l"], "command": "latexupdate" },
+	{ "keys": ["f8"], "command": "permute_lines", "args": {"operation": "unique"} },
+	{ "keys": ["ctrl+shift+!"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+]
